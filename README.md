@@ -34,7 +34,14 @@ Microsoft Excel, SQL and Power BI.
 - Fire Impact: Burned area (in hectares).
 
 # Methodology
+The following steps were carried out to analyze the forest fire dataset:
 
+- Data Preparation: The Month and Day columns were cleaned and reformatted into proper full text to improve readability.
+  Data types were checked and corrected where necessary to ensure accurate aggregation and calculations using Microsoft Excel.
+
+  Data Analysis was done using SQL.
+  
+- Reporting: Results were summarized into key findings, with tables, charts, and visuals in Power BI to present the analysis clearly and support decision-making.
 
 # Research Questions
 
