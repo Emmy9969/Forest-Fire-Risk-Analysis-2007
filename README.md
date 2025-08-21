@@ -96,9 +96,38 @@ The following steps were carried out to analyze the forest fire dataset:
     group by x, y
 
 
+# Results
+
+- The analysis revealed that the two largest fires occurred in September (1,090.84 ha at X=6, Y=5) and August (746.28 ha at X=8, Y=6), both of which burned significantly larger areas than most other incidents.
+
+- Fires were most frequent in August (184 fires) and September (172 fires), indicating that late summer and early autumn are the peak fire seasons.
+
+- The highest total burned area was observed in September with approximately 3,086 ha, followed by August with about 2,298 ha, showing that these two months contributed the majority of the overall fire damage.
+
+- Although August and September recorded the largest totals, May had the highest average fire size of about 19.24 ha per fire, which suggests that while fewer fires occurred that month, they tended to be larger.
+
+- The most fire-prone region was identified as (X=8, Y=6), which experienced 52 separate fire incidents, making it the highest-risk geographic location.
+
+- The single largest fire event in the dataset occurred in September at (X=6, Y=5), burning 1,090.84 ha, and stands out as the most severe case.
+
+- Environmental conditions also played a role, as regions with higher average temperatures (20–27°C) and lower relative humidity (32–46%) were more fire-prone, with region (1,5) serving as an example where an average temperature of 25°C and humidity of 32% coincided with increased fire activity.
 
 
+# Recommendations
 
+- Focus Preventive Measures in High-Risk Months: Since most fires occur in August and September, with the highest total burned areas, fire management authorities should intensify prevention campaigns, monitoring, and readiness during these months.
+
+- Strengthen Fire Control in Hotspot Regions: The region (X=8, Y=6), which recorded the highest frequency of fires, should be prioritized for fire watch towers, rapid response teams, and community awareness programs.
+
+- Target Large-Scale Fires in May: Although fewer fires occurred in May, they were significantly larger on average. Authorities should allocate additional resources in this month to prevent large-scale damage.
+
+- Monitor Environmental Conditions: Regions with high temperatures and low humidity (20–27°C and 32–46% RH) should be continuously monitored, as these conditions are strongly linked to fire outbreaks. Early-warning systems could be based on these parameters.
+
+- Improve Firefighting Resources and Training: Since extreme events such as the 1,090.84 ha fire in September are possible, firefighting units should be equipped with specialized equipment and trained for handling large-scale fires.
+
+- Community Awareness and Engagement: Local communities should be educated about fire risks, especially in fire-prone months, to reduce human-caused ignitions and promote responsible land use practices.
+
+- Policy and Planning Support: Fire data should be integrated into long-term land management policies, ensuring that regions with recurring fire risks receive investments in prevention infrastructure, reforestation, and firebreak creation.
 
 
 
