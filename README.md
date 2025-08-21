@@ -163,3 +163,25 @@ The following steps were carried out to analyze the forest fire dataset:
 - Data Quality Issues: The dataset required cleaning, such as reformatting the Month and Day columns. This suggests potential inconsistencies or limitations in the original data collection.
 
 
+# Conclusion 
+
+  This analysis of the forest fire dataset has provided meaningful insights into the patterns, scale, and conditions of fire occurrences. The study revealed that the most severe fires     occurred in September and August, both in terms of frequency and total area burned, with September recording the single largest fire event of 1,090.84 hectares. While these months       posed the greatest overall risk, the month of May stood out with the highest average fire size, highlighting that fewer but more destructive fires can also occur outside the peak        season.
+
+  Geographically, the region at (X=8, Y=6) was identified as the most fire-prone location, emphasizing the need for targeted monitoring and preventive measures. Environmental analysis     further showed that fires were more likely under high temperature and low humidity conditions, reinforcing the importance of weather-based fire prediction and early warning systems.
+
+  The findings suggest that effective forest fire management should focus on seasonal preparedness, regional risk monitoring, and community awareness, while also equipping firefighting    units to handle extreme events. Although the dataset has limitations—such as the lack of information on fire causes and broader ecological impacts—it still provides a strong             foundation for data-driven decision-making.
+
+  Overall, this report demonstrates how structured data analysis using SQL and visualization tools can uncover critical patterns that support proactive fire prevention, resource           allocation, and policy planning to reduce the devastating effects of wildfires.
+
+
+
+
+
+
+
+
+
+
+
+
+
