@@ -146,10 +146,20 @@ The following steps were carried out to analyze the forest fire dataset:
 - Policy and Planning Support: Fire data should be integrated into long-term land management policies, ensuring that regions with recurring fire risks receive investments in prevention infrastructure, reforestation, and firebreak creation.
 
 
+# Possible Limitations
 
+- Geographic Scope: The dataset is restricted to specific coordinates (X, Y grid system), which may not represent all forest fire patterns in wider regions or different ecosystems.
 
+- Temporal Coverage: The dataset only covers the months and years included in the file. Fires occurring outside this time frame were not captured, limiting the ability to generalize       long-term trends.
 
+- Data Granularity: While the dataset provides monthly and daily information, it does not include exact dates, durations, or times of fire events, which could give a more detailed temporal analysis.
 
+- Lack of Cause Information: The dataset does not specify the causes of the fires (e.g., lightning, human activity, agricultural burning), which limits the ability to recommend targeted preventive strategies.
 
+- Environmental Variables: Although temperature, humidity, wind, and rainfall are included, other important environmental factors such as vegetation type, soil condition, or fuel availability were not recorded, which may influence fire behavior.
+
+- Severity Measure: Fire impact is measured only by the burned area (in hectares). Other measures of severity (e.g., ecological damage, economic cost, loss of biodiversity) are not included.
+
+- Data Quality Issues: The dataset required cleaning, such as reformatting the Month and Day columns. This suggests potential inconsistencies or limitations in the original data collection.
 
 
