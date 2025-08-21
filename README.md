@@ -112,6 +112,22 @@ The following steps were carried out to analyze the forest fire dataset:
 
 - Environmental conditions also played a role, as regions with higher average temperatures (20–27°C) and lower relative humidity (32–46%) were more fire-prone, with region (1,5) serving as an example where an average temperature of 25°C and humidity of 32% coincided with increased fire activity.
 
+# Findings
+
+- Largest Fires: The two biggest fires occurred in September (1,090.84 ha at X=6, Y=5) and August (746.28 ha at X=8, Y=6). Both incidents burned significantly larger areas compared to     the majority of other fires.
+
+- Fire Frequency by Month: Fires occurred most often in August (184 fires) and September (172 fires), showing that late summer/early autumn is the most fire-prone period. Fewer fires      were recorded in months such as February (20 fires).
+
+- Total Area Burned by Month: The highest total burned area was in September (≈3,086 ha) followed by August (≈2,298 ha). Together, these two months accounted for the majority of fire      damage.
+
+- Average Fire Size by Month: Although August and September had the highest total fire damage, May recorded the highest average fire size (≈19.24 ha per fire). This indicates fewer        fires occurred in May, but they were larger in scale.
+
+- Geographic Hotspot: The most fire-prone region was (X=8, Y=6), with 52 fire incidents, marking it as the highest-risk location.
+
+- Extreme Event: The largest single fire occurred in September (X=6, Y=5, 1,090.84 ha), making it the most severe fire in the dataset.
+
+- Environmental Conditions: Regions with higher average temperatures (20–27°C) and lower relative humidity (32–46%) tended to experience more fires. For example, region (1,5) had an       average temperature of 25°C and low humidity (32%), aligning with fire-prone conditions.
+
 
 # Recommendations
 
