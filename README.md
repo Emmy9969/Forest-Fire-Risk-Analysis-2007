@@ -2,7 +2,6 @@
 
 # Executive Summary
 This dataset contains records of forest fires, including details such as the month, day, location (X, Y), temperature, relative humidity, wind speed, rainfall, and the area burned using 
-
 Microsoft Excel, SQL and Power BI.
 
 # Report Objectives
@@ -10,7 +9,7 @@ Microsoft Excel, SQL and Power BI.
 
 - Determine the frequency of fires by month to understand seasonal fire trends.
 
-= Calculate the total burned area by month to assess which periods caused the most damage.
+- Calculate the total burned area by month to assess which periods caused the most damage.
 
 - Find the month with the highest average fire size to detect months with larger but possibly fewer fires.
 
@@ -19,3 +18,52 @@ Microsoft Excel, SQL and Power BI.
 - Highlight the fire(s) with the largest burned area to understand extreme events.
 
 - Analyze the average temperature and relative humidity by region to examine environmental conditions linked to fire occurrence.
+
+# Data Sources  
+
+- The analysis is based on the Forest Fires Dataset, which contains historical records of forest fire occurrences. The dataset includes the following variables:
+
+- Spatial Coordinates (X, Y): Location of the fire in a grid-based mapping system.
+
+- Temporal Information: Month and day of fire occurrence.
+
+- Meteorological Conditions: Temperature (°C), Relative Humidity (%), Wind speed (km/h), and Rainfall (mm).
+
+- Fire Danger Indices: FFMC (Fine Fuel Moisture Code), DMC (Duff Moisture Code), DC (Drought Code), and ISI (Initial Spread Index).
+
+- Fire Impact: Burned area (in hectares).
+
+# Methodology
+
+
+# Research Questions
+
+- What are the details of the top two fires with the largest area burned?
+
+- What is the frequency of fires in each month?
+
+- What is the total area burned by fires in each month?
+
+- find the Month with the highest average fire area?
+
+- Identify the region with the highest frequency of fires?
+
+- Identify the fires with largest area burned?
+
+- Find the average temperature and relative humidity for fires that occurred in the regions?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
