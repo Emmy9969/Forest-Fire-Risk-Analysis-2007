@@ -59,7 +59,10 @@ The following steps were carried out to analyze the forest fire dataset:
 
 - Find the average temperature and relative humidity for fires that occurred in the regions?
 
+# Data Analysis
 
++ Select top 2 * From Forestfires
+Order by Area Desc
 
 
 
