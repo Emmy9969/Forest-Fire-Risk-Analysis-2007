@@ -107,7 +107,8 @@ The following steps were carried out to analyze the forest fire dataset:
 
 - The analysis revealed that the two largest fires occurred in September (1,090.84 ha at X=6, Y=5) and August (746.28 ha at X=8, Y=6), both of which burned significantly larger areas than most other incidents.
 
-- ![Frequency](./Dashboard-2.PNG)
+- Frequency of fires in each Month.
+ ![Frequency](./Dashboard-2.PNG)
 
 - The highest total burned area was observed in September with approximately 3,086 ha, followed by August with about 2,298 ha, showing that these two months contributed the majority of the overall fire damage.
 
