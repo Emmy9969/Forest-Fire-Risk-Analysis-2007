@@ -117,7 +117,7 @@ The following steps were carried out to analyze the forest fire dataset:
 
 - The single largest fire event in the dataset occurred in September at (X=6, Y=5), burning 1,090.84 ha, and stands out as the most severe case.
 
-- Environmental conditions also played a role, as regions with higher average temperatures (20–27°C) and lower relative humidity (32–46%) were more fire-prone, with region (1,5) serving as an example where an average temperature of 25°C and humidity of 32% coincided with increased fire activity.
+-  ![rh](./Dashboard-4.PNG)
 
 # Findings
 
